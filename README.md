@@ -11,7 +11,6 @@ A simple terminal-based or GUI chat application built using Java. This project d
 ## 🧰 Tech Stack
 
 - **Language:** Java
-- **Build Tool:** (e.g., Maven, Gradle — update if used)
 - **IDE:** (e.g., IntelliJ, Eclipse — optional)
 
 ## 🚀 How to Run
